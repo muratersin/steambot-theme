@@ -1,6 +1,6 @@
 {
-    "name": "chinchilla",
-    "displayName": "Chinchilla",
+    "name": "steambot",
+    "displayName": "Steambot",
     "description": "Sweety thema for living people.",
     "version": "0.0.1",
     "publisher": "muratersin",
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Chinchilla",
+                "label": "Steambot",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Chinchilla-color-theme.json"
+                "path": "./themes/steambot-color-theme.json"
             }
         ]
     }
