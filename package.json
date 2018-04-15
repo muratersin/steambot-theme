@@ -1,0 +1,22 @@
+{
+    "name": "chinchilla",
+    "displayName": "Chinchilla",
+    "description": "Sweety thema for living people.",
+    "version": "0.0.1",
+    "publisher": "muratersin",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Chinchilla",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Chinchilla-color-theme.json"
+            }
+        ]
+    }
+}
