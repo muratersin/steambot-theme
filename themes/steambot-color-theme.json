@@ -4,13 +4,17 @@
 	"colors": {
 		"editor.background": "#131313",
 		"editor.foreground": "#d4d4d4",
-		"activityBarBadge.background": "#007acc",
 		"activityBar.background": "#131313",
 		"activityBar.foreground": "#00ff4c",
 		"sideBar.background": "#131313",
 		"sideBar.dropBackground": "#131313",
 		"sideBarSectionHeader.background": "#1d4228",
-		"selection.background": "#00ff4c"
+		"selection.background": "#00ff4c",
+		"notifications.background": "#FF5370",
+		"notifications.foreground": "#131313",
+		"badge.background": "#00ff4c",
+		"activityBarBadge.foreground": "#131313",
+		"activityBarBadge.background": "#FF5370"
 	},
 	"tokenColors": [
 		{
