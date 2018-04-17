@@ -1,9 +1,9 @@
 {
-    "name": "steambot",
-    "displayName": "Steambot",
-    "description": "Sweety thema for living people.",
+    "name": "steambot-theme",
+    "displayName": "Steambot Theme",
+    "description": "Sweety theme for living people.",
     "version": "0.0.1",
-    "publisher": "muratersin",
+    "publisher": "Murat",
     "engines": {
         "vscode": "^1.22.0"
     },
