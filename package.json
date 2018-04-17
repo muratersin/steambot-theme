@@ -13,7 +13,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Steambot",
+                "label": "Steambot Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/steambot-color-theme.json"
             }
