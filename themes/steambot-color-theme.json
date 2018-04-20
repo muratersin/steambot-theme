@@ -2,25 +2,94 @@
 	"name": "Steambot",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#181818",
+		// Base
+		"focusBorder": "#4d4d4d",
+		"foreground": "#f7f7f7",
+
+		// Text Colors
+		// "textBlockQuote.background": "",
+		// "textBlockQuote.border": "",
+		// "textCodeBlock.background": "",
+		"textLink.activeForeground": "#FF5370",
+		"textLink.foreground": "#00ff4c",
+		// "textPreformat.foreground": "",
+		// "textSeparator.foreground": ""
+
+		// Editor		
+		"editor.background": "#202020",
 		"editor.foreground": "#d4d4d4",
-		"activityBar.background": "#181818",
-		"activityBar.foreground": "#00ff4c",
-		"activityBarBadge.foreground": "#181818",
-		"activityBarBadge.background": "#FF5370",
-		// "activityBar.border": "#00ff4c",
-		"sideBar.background": "#181818",
-		"sideBar.dropBackground": "#181818",
-		"selection.background": "#00ff4c",
-		"notifications.background": "#FF5370",
-		"notifications.foreground": "#181818",
-		"badge.background": "#00ff4c",
-		"statusBar.background": "#181818",
-		"statusBar.foreground": "#00ff4c",
 		"editorLineNumber.activeForeground": "#FF5370",
-		"editorLineNumber.foreground": "#8b7b8b",
-		"sideBarSectionHeader.background": "#181818",
-		"sideBarSectionHeader.foreground": "#FF5370"
+		"editorLineNumber.foreground": "#4d4d4d",
+		"editorCursor.background": "#00ff4c",
+		"editorCursor.foreground": "#ff4040",
+
+		// Button
+		"button.background": "#00ff4c",
+		"button.foreground": "#202020",
+		"button.hoverBackground": "#4d4d4d",
+
+		// Panel
+		// "panel.background": "#ff0000",
+		"panel.border": "#4d4d4d",
+		"panel.dropBackground": "#00ff4c",
+		"panelTitle.activeBorder": "#00ff4c",
+		"panelTitle.activeForeground": "#FF5370",
+		"panelTitle.inactiveForeground": "#d4d4d4",
+
+		// Dropdown
+		// "dropdown.background": "#00ff4c",
+		// "dropdown.foreground": "#202020",
+		// "dropdown.border": "#4d4d4d",
+
+		// Scrollbar
+		// "scrollbarSlider.hoverBackground": "#ff0000",
+
+		// List And Trees
+		"list.activeSelectionBackground": "#4d4d4d",
+
+		// Editor Group And Tabs
+		"tab.border": "#4d4d4d",
+		"editorGroupHeader.tabsBorder": "#4d4d4d",
+		"tab.activeForeground": "#00ff4c",
+		"tab.inactiveForeground": "#d4d4d4",
+
+		// Input
+		"inputOption.activeBorder": "#00ff4c",
+		"input.foreground": "#FF5370",
+
+
+		// Activity Bar
+		"activityBar.background": "#202020",
+		"activityBar.foreground": "#00ff4c",
+		"activityBarBadge.foreground": "#202020",
+		"activityBarBadge.background": "#FF5370",
+		"activityBar.border": "#4d4d4d",
+
+		// Side Bar
+		"sideBar.background": "#202020",
+		"sideBar.dropBackground": "#202020",
+
+		// Notification
+		"notifications.background": "#FF5370",
+		"notifications.foreground": "#202020",
+
+		// Badge
+		"badge.background": "#00ad34",
+		"badge.foreground": "#000000",
+
+		// Status Bar
+		"statusBar.background": "#202020",
+		"statusBar.foreground": "#00ff4c",
+		"statusBar.debuggingBackground": "#202020",
+		"statusBar.debuggingForeground": "#FF5370",
+		"statusBar.noFolderBackground": "#202020",
+		"statusBar.noFolderForeground": "#00ff4c",
+		"statusBar.border": "#4d4d4d",
+
+		// Side Bar
+		"sideBarSectionHeader.background": "#202020",
+		"sideBarSectionHeader.foreground": "#b93c50",
+		"sideBar.border": "#4d4d4d"
 	},
 	"tokenColors": [
 		{
@@ -30,7 +99,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				// "fontStyle": "italic",
+				"fontStyle": "italic",
 				"foreground": "#9a9a9a"
 			}
 		},
@@ -41,22 +110,67 @@
 				"keyword"
 			],
 			"settings": {
-				"foreground": "#00ff4c",
-				"fontStyle": "italic"
+				"foreground": "#A6E22E"
+			}
+		},
+		{
+			"name": "Text",
+			"scope": [
+				"variable",
+				"meta",
+				"support"
+			],
+			"settings": {
+				"foreground": "#f5f5f5"
 			}
 		},
 		{
 			"name": "Operators",
 			"scope": [
 				"keyword.operator"
+				// "punctuation"
 			],
 			"settings": {
-				"foreground": "#FF0000",
-				"fontStyle": "bold"
+				"foreground": "#00ff4c"
 			}
 		},
 		{
-
+			"name": "Entities",
+			"scope": [
+				"entity",
+				"meta.function",
+				"support.function"
+			],
+			"settings": {
+				"foreground": "#fa5692"
+			}
+		},
+		{
+			"name": "Constants",
+			"scope": [
+				"constant"
+			],
+			"settings": {
+				"foreground": "#AE81FF"
+			}
+		},
+		{
+			"name": "Strings",
+			"scope": [
+				"string"
+			],
+			"settings": {
+				"foreground": "#E6DB74"
+			}
+		},
+		{
+			"name": "Variables",
+			"scope": [
+				"variable.parameter"
+			],
+			"settings": {
+				"foreground": "#FD971F"
+			}
 		}
 	]
 }
