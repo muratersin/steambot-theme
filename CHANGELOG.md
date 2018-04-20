@@ -5,3 +5,22 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 - Initial release
+
+## [0.0.1] - 2018-04-10
+### Added
+- Color definations.
+
+## [0.0.2] - 2018-04-10
+### Changed
+- Improve color declarations.
+
+## [0.0.3] - 2018-04-20
+### Added
+- Base colors.
+- Text link colors.
+- Editor colors.
+- Button colors.
+- Panel colors.
+
+### Changed
+- Rewrite all old color declarations.

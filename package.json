@@ -2,7 +2,7 @@
     "name": "steambot-theme",
     "displayName": "Steambot Theme",
     "description": "Sweety theme for living people.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "Murat",
     "engines": {
         "vscode": "^1.22.0"
