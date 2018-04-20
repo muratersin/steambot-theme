@@ -2,7 +2,8 @@
     "name": "steambot-theme",
     "displayName": "Steambot Theme",
     "description": "Theme that will make nerds fell at home.",
-    "version": "0.0.3",
+    "icon": "images/steambot-theme-logo-128x128.png",
+    "version": "0.0.4",
     "publisher": "Murat",
     "engines": {
         "vscode": "^1.22.0"

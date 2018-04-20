@@ -24,3 +24,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Changed
 - Rewrite all old color declarations.
+
+## [0.0.4] - 2018-04-20
+### Added
+- Steambot logo is created.
+
+### Changed
+- Rewrite theme description.
