@@ -28,6 +28,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.4] - 2018-04-20
 ### Added
 - Steambot logo is created.
+- Add new color for attribute name.
 
 ### Changed
 - Rewrite theme description.
+- Rewrite string color
+- Primary colors changed with dark versions
