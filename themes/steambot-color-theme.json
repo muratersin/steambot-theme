@@ -65,7 +65,6 @@
 		"statusBar.debuggingForeground": "#ff420e",
 		"statusBar.noFolderBackground": "#202020",
 		"statusBar.noFolderForeground": "#89da59",
-		"statusBar.border": "#15f84e",
 
 		// Side Bar
 		"sideBarSectionHeader.background": "#202020",
@@ -76,11 +75,11 @@
 			"name": "Comment",
 			"scope": [
 				"comment",
-				"punctuation.definition.comment"
+				"punctuation.definition.comment",
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#598234"
+				"foreground": "#7c7c7c"
 			}
 		},
 		{
