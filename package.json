@@ -3,7 +3,7 @@
     "displayName": "Steambot Theme",
     "description": "Theme that will make nerds fell at home.",
     "icon": "images/steambot-theme-logo-128x128.png",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "publisher": "Murat",
     "engines": {
         "vscode": "^1.22.0"

@@ -39,7 +39,6 @@
 		"inputOption.activeBorder": "#89da59",
 		"input.foreground": "#ff420e",
 
-
 		// Activity Bar
 		"activityBar.background": "#202020",
 		"activityBar.foreground": "#15f84e",
@@ -74,8 +73,7 @@
 		{
 			"name": "Comment",
 			"scope": [
-				"comment",
-				"punctuation.definition.comment",
+				"comment"
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -111,7 +109,6 @@
 				"markup.deleted",
 				"markup",
 				"entity.other"
-				// "punctuation"
 			],
 			"settings": {
 				"foreground": "#ff420e"
