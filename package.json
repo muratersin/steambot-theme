@@ -1,23 +1,23 @@
 {
-    "name": "steambot-theme",
-    "displayName": "Steambot Theme",
-    "description": "Theme that will make nerds fell at home.",
-    "icon": "images/steambot-theme-logo-128x128.png",
-    "version": "0.0.8",
-    "publisher": "Murat",
-    "engines": {
-        "vscode": "^1.22.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Steambot Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/steambot-color-theme.json"
-            }
-        ]
-    }
+  "name": "steambot-theme",
+  "displayName": "Steambot Theme",
+  "description": "Theme that will make nerds fell at home.",
+  "icon": "images/steambot-theme-logo-128x128.png",
+  "version": "0.0.8",
+  "publisher": "Murat Ersin",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Steambot Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/steambot-color-theme.json"
+      }
+    ]
+  }
 }
