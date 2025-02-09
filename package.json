@@ -4,7 +4,11 @@
   "description": "Theme that will make nerds fell at home.",
   "icon": "images/steambot-theme-logo-128x128.png",
   "version": "1.0.0",
-  "publisher": "Murat Ersin",
+  "publisher": "Murat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muratersin/steambot-theme"
+  },
   "engines": {
     "vscode": "^1.22.0"
   },
