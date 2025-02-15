@@ -1,0 +1,21 @@
+- 1.1.0
+- feat: Readme and Screenshot Added
+- feat: New Style
+- Merge pull request #10 from muratersin/feat/new-colors
+- 1.0.0
+- feat: New Theme added
+- Resolve Syntax Error And Remove Statusba Borderx
+- Remove StatusBar Color"
+- Improve Colors
+- Change COlors
+- Add Logo
+- Rewrite Theme Description.
+- Add Changelog
+- Rewritten All Clour Declarations.
+- Improve Theme Style
+- Change Version
+- CHange Badge Bg.
+- Safe
+- Change Theme name And Description.
+- Change Theme Nam
+- Initial Commit
