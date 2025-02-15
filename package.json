@@ -5,6 +5,9 @@
   "icon": "images/steambot-theme-logo-128x128.png",
   "version": "1.0.0",
   "publisher": "Murat",
+  "scripts": {
+    "postversion": "git log --pretty=\"- %s\" > CHANGELOG.md"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/muratersin/steambot-theme"
