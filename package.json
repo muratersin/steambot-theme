@@ -3,7 +3,7 @@
   "displayName": "Steambot Theme",
   "description": "Theme that will make nerds fell at home.",
   "icon": "images/steambot-theme-logo-128x128.png",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "Murat",
   "scripts": {
     "postversion": "git log --pretty=\"- %s\" > CHANGELOG.md"
